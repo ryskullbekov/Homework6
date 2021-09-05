@@ -2,6 +2,10 @@ package com.company;
 
 public class Player {
 
+    public void typeAttack(){
+        System.out.println("Тип атаки");
+    }
+
 
     private String name;
     private int age;
